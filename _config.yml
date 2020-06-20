@@ -12,6 +12,6 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
 ---
-title: "first-blog-post"
+title: "my first blog post"
 date: 2020-06-20
 ---
